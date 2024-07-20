@@ -1,0 +1,8 @@
+.logo-container{
+    display: flex;
+    font-size: 20pxdx;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    color: white;
+}
